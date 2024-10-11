@@ -4,6 +4,7 @@ My personal repository.
 Based on your background, skills, and experience, here’s a suggestion for your GitHub "About Me" section:
 
 👋 Hi, I'm Saurav Jha!
+
 I'm a passionate Full Stack Developer with a strong foundation in HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express.js, React, Node.js). Over the past few years, I’ve worked on a variety of projects ranging from e-commerce websites to job portals, with a focus on dynamic, user-friendly interfaces and efficient back-end solutions.
 
 🛠️ My Projects Include:
